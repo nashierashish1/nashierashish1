@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Nashier  
 
-<!--
-**nashierashish1/nashierashish1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year ECE student passionate about **electronics, coding, web development, cyber security and robotics**.  
+💡 I enjoy learning modern tech and building creative projects.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- HTML, CSS, JavaScript  
+- C / C++  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🌐 Restaurant Menu Webpage  
+- 📱 Smart Farming Tech Presentation  
+- 🧠 Engineering Math Simulations
+- Presentation on Reducing Food Waste In Indian Supply Chains
+
+## 📫 Reach Me
+- Email: nashierashish1@gmail.com  
+- LinkedIn: www.linkedin.com/in/ashish-nashier-400701380 (https://linkedin.com)
